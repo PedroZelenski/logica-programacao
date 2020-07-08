@@ -1,0 +1,13 @@
+C:\repo\LoP1\LoP1\bin\Debug\netcoreapp3.1\LoP1.exe
+C:\repo\LoP1\LoP1\bin\Debug\netcoreapp3.1\LoP1.deps.json
+C:\repo\LoP1\LoP1\bin\Debug\netcoreapp3.1\LoP1.runtimeconfig.json
+C:\repo\LoP1\LoP1\bin\Debug\netcoreapp3.1\LoP1.runtimeconfig.dev.json
+C:\repo\LoP1\LoP1\bin\Debug\netcoreapp3.1\LoP1.dll
+C:\repo\LoP1\LoP1\bin\Debug\netcoreapp3.1\LoP1.pdb
+C:\repo\LoP1\LoP1\obj\Debug\netcoreapp3.1\LoP1.csprojAssemblyReference.cache
+C:\repo\LoP1\LoP1\obj\Debug\netcoreapp3.1\LoP1.AssemblyInfoInputs.cache
+C:\repo\LoP1\LoP1\obj\Debug\netcoreapp3.1\LoP1.AssemblyInfo.cs
+C:\repo\LoP1\LoP1\obj\Debug\netcoreapp3.1\LoP1.csproj.CoreCompileInputs.cache
+C:\repo\LoP1\LoP1\obj\Debug\netcoreapp3.1\LoP1.dll
+C:\repo\LoP1\LoP1\obj\Debug\netcoreapp3.1\LoP1.pdb
+C:\repo\LoP1\LoP1\obj\Debug\netcoreapp3.1\LoP1.genruntimeconfig.cache
