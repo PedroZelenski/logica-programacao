@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Runtime.Serialization;
 
 namespace LoP1
 {
@@ -6,6 +7,24 @@ namespace LoP1
     {
         static void Main(string[] args)
         {
+            //entrada de dados(input)
+            //Console.WriteLine("Digite seu nome: ");
+            //string nome = Console.ReadLine();
+            //Console.WriteLine("Seu nome e: " + nome);
+
+            //Casting/Parse
+            //int idade = 20;
+            //string frase = "A minha idade e: " + idade;
+            //Console.WriteLine(frase);
+            //
+            //string idade = "20";
+            //string idade2 = "30";
+            //int somaIdades = Convert.ToInt32(idade) + Convert.ToInt32(idade2);
+            //Console.WriteLine(somaIdades);
+            //
+            //bool booleano = true;
+            //string frase = "A terra e redonda? " + booleano;
+
             //Operadores relacionais e logicos
             //bool souRico = false;
             //double salario = 2000.00;
